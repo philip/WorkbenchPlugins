@@ -1,0 +1,3 @@
+[submodule "mysql-workbench-plugin-doc-generating"]
+	path = mysql-workbench-plugin-doc-generating
+	url = https://github.com/philip/mysql-workbench-plugin-doc-generating
